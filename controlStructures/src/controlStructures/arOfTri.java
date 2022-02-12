@@ -14,3 +14,4 @@ public class arOfTri {
 		System.out.println("Area of Triangle is: " + area);
 		}
 }
+//asdasdaadw
